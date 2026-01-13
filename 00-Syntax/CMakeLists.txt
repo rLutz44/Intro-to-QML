@@ -9,6 +9,7 @@ qt_add_executable(IntroToQML main.cpp)
 
 qt_add_qml_module(IntroToQML
     URI Main
+    VERSION 1.0
     QML_FILES
         Main.qml
 )

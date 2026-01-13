@@ -1,5 +1,6 @@
 //Import the QtQuick module
 import QtQuick
+import Main 1.0
 
 Window {
     id: root
